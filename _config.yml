@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Keegan McGehee, PhD"
+  name             : "Keegan McGehee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A molecular scientist with a passion for light and the drive to bridge theoretical and experimental research"
   location         : "Tsukuba, Ibaraki, Japan"
   employer         : "AIST"
   uri              : # URL

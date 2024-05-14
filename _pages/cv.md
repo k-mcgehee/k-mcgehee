@@ -11,28 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Engineering (Materials Innovation), University of Tsukuba, 2024
+* M.S. in Chemistry (Physical Chemistry and Chemical Physics), University of Bordeaux, 2020
+* B.S. in Chemistry, Colorado School of Mines, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2024 - : Postdoctoral Researcher
+  * AIST, OPERANDO OIL
+  * Duties includes: Development of time resolved x-ray measurement techniques.
+  * Supervisor: Dr. Kazuhiro Mio
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -40,25 +30,25 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+-->
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
